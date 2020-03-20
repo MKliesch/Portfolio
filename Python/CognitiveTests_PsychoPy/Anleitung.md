@@ -28,6 +28,7 @@ Wenn Sie einen Mac-Computer haben, laden Sie das Programm von folgendem Link her
 ![](logo.png = 50x50). 
 
 4. Öffnen Sie *PsychoPy*. Beim ersten Mal kann dies bis zu ein paar Minuten dauern. 
+<br><br>
 
 ## Öffnen der Tests
 
