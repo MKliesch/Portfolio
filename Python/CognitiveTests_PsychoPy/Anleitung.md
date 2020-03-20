@@ -1,7 +1,7 @@
 # Beschreibung
 Diese Kognitionstests wurden von Maria Kliesch für die Studie "New languages and old brains: 
 A dynamic approach to language learning in third age" erstellt. Sie werden den ehemaligen
-Teilnehmenden der Studie auf ihren Wunsch weiterhin zur Verfügung gestellt.
+Teilnehmenden der Studie auf deren Wunsch weiterhin zur Verfügung gestellt.
 
 **Inhalt**:
 * Allgemeiner Wachsamkeits/Reaktionsgeschwindigkeitstest ("Alertness")
