@@ -1,6 +1,6 @@
 # Beschreibung
-Fünf kognitive Tests, die für die Datenerhebung der Studie "New languages and old brains: 
-A dynamic approach to language learning in third age" verwendet wurden.
+Diese Kognitionstests wurden von Maria Kliesch für die Studie "New languages and old brains: 
+A dynamic approach to language learning in third age" erstellt.
 
 **Inhalt**:
 * Allgemeiner Wachsamkeits/Reaktionsgeschwindigkeitstest ("Alertness")
@@ -21,8 +21,16 @@ Stimuli und Testaufbau werden in Kliesch & Pfenninger (unter Review) erklärt.
 Wenn Sie einen Mac-Computer haben, laden Sie das Programm von folgendem Link herunter:
 [https://github.com/psychopy/psychopy/releases/download/1.90.1/StandalonePsychoPy2_PY3-1.90.1b-MacOS.dmg](PsychoPy für Mac)
 
+2. Öffnen Sie die heruntergeladene Datei und folgen Sie den Installationsanweisungen. 
 
+3. Am Schluss sollte sich auf Ihrem Computer das Programm *PsychoPy* mit folgendem Logo befinden:
+![](logo.png). 
 
+4. Öffnen Sie *PsychoPy*. Beim ersten Mal kann dies bis zu ein paar Minuten dauern. 
+
+## Öffnen der Tests
+
+1. Gehen Sie zurück auf die Webseite, auf der Sie diese Anleitung gefunden haben und 
 
 
 # Bibliografie
