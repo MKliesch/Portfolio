@@ -23,7 +23,7 @@ PsychoPy für Mac.</a>
 2. Öffnen Sie die heruntergeladene Datei und folgen Sie den Installationsanweisungen. 
 
 3. Am Schluss sollte sich auf Ihrem Computer das Programm *PsychoPy* mit folgendem Logo befinden:
-![](logo.png =50x50). 
+![](logo.png =50x). 
 
 4. Öffnen Sie *PsychoPy*. Beim ersten Mal kann dies bis zu ein paar Minuten dauern. 
 ---
