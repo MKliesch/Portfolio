@@ -29,8 +29,9 @@ Wenn Sie einen Mac-Computer haben, laden Sie das Programm von folgendem Link her
 
 4. Öffnen Sie *PsychoPy*. Beim ersten Mal kann dies bis zu ein paar Minuten dauern. 
 <br><br>
+.
 
-## Öffnen der Tests
+## Öffnen der Tests
 
 1. Gehen Sie zurück auf die Webseite, auf der Sie diese Anleitung gefunden haben und klicken 
 Sie im selben Ordner auf die Datei "Test.zip". 
