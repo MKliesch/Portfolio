@@ -16,14 +16,16 @@ Stimuli und Testaufbau werden in Kliesch & Pfenninger (unter Review) erklärt.
 
 ## Download von PsychoPy 1.90.1
 
-1. Wenn Sie einen Windowscomputer haben, laden Sie das Programm von folgendem Link herunter:
-<a href="https://github.com/psychopy/psychopy/releases/download/1.90.1/StandalonePsychoPy2_PY3-1.90.1-win32.exe">
+1. Wenn Sie einen Windowscomputer haben, laden Sie das Programm von folgendem Link herunter:<a href="https://github.com/psychopy/psychopy/releases/download/1.90.1/StandalonePsychoPy2_PY3-1.90.1-win32.exe">
 PsychoPy für Windows.</a> Wenn Sie einen Mac-Computer haben, laden Sie das Programm von folgendem Link herunter:
 <a href="https://github.com/psychopy/psychopy/releases/download/1.90.1/StandalonePsychoPy2_PY3-1.90.1b-MacOS.dmg">
 PsychoPy für Mac.</a>
+
 2. Öffnen Sie die heruntergeladene Datei und folgen Sie den Installationsanweisungen. 
+
 3. Am Schluss sollte sich auf Ihrem Computer das Programm *PsychoPy* mit folgendem Logo befinden:
 ![](logo.png = 50x50). 
+
 4. Öffnen Sie *PsychoPy*. Beim ersten Mal kann dies bis zu ein paar Minuten dauern. 
 ---
 
