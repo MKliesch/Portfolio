@@ -6,7 +6,7 @@
 * [Git link](https://github.com/MKliesch/Portfolio/tree/master/PsychoPy_CognitiveTests)
 
 
-## ML Project Comparing the Performance of SVM and Decision Trees in Identifying Cancerous States of Human Cell Samples
+## ML Project:  SVM and Decision Trees to Identify Cancer in Human Cell Samples
 * Dataset of 700 cell samples and 10 cell characteristics used as predictors of cell state (benign/malignant).
 * SVM and DT are used to predict cell type and compared in terms of 5 performance measures.
 * Tech: Python
